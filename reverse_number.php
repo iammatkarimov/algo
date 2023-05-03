@@ -10,7 +10,6 @@ $n =123456789;
 $sum = 0;
 if ($n){
     for ($i=$n; $i>0; $i =intval($i/10)){
-        $sum+=$i%10;
+        echo $i%10;
     }
 }
-echo $sum;
