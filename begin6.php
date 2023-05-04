@@ -1,5 +1,6 @@
 <?php
-
+//Paralelepepidning tomonlari a, b, s berilgan. Uning hajmini
+//  V = abc   tola sirti  S=2(ab+ bc+ac ) aniqlansin.
 $a = isset($_POST['a']) ? $_POST['a'] : '';
 $b = isset($_POST['b']) ? $_POST['b'] : '';
 $c = isset($_POST['c']) ? $_POST['c'] : '';

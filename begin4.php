@@ -1,4 +1,7 @@
 <?php
+
+//Aylananing diametri  d  berilgan . Uning uzunligi  aniqlansin . L = π d ; π = 3,15
+
 $d = isset($_POST['d']) ? $_POST['d'] : '';
 $l = M_PI*$d;
 echo $l;

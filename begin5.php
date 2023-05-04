@@ -1,4 +1,5 @@
 <?php
+//Kubning yon tomoni a berilgan. Uning hajmim V=a 3   va to’la sirti   S= 6 a aniqlansin.
 $a = isset($_POST['a']) ? $_POST['a'] : '';
 $v = pow($a,3);
 $s = 6*$a;
