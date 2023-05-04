@@ -8,8 +8,8 @@ if ($a!=0 && $b!=0){
     echo $a+$b." ";
     echo $a*$b." ";
     echo $a*$a." ";
-    echo abs($a)." ";
-    echo abs($b)." ";
+    echo abs($a) . " begin11.php";
+    echo abs($b) . " begin11.php";
 }
 else{
     echo "a va b sonlar nolga teng bo'lmasligi kerak";
