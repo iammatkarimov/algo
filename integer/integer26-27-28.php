@@ -12,3 +12,9 @@
 // (N 1-7gacha bo'lgan hafta kunlari soni). 1-365 oraliqda yotuvchi K soni berilgan.
 // Agar 1-yanvar N-kunga to'g'ri kelsa, kiritilgan K - kun haftaning qaysi kuniga to'g'ri
 // kelishini aniqlovchi programma tuzilsin.
+
+$n = readline();
+$k = readline();
+
+$kun = ($k+$n-1);
+echo $kun;
