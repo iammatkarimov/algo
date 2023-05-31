@@ -1,0 +1,449 @@
+MASALALAR VA MASHQLAR TO'PLAMI
+
+Begin 1  Kvadratning tomoni    a  berilgan .Uning perimetri aniqlansin . P = 4a;
+Begin 2 Kvadratning tomoni    a  berilgan .Uning yuzi aniqlansin . S = a2 ;
+Begin 3 To’g’ri to’rtburchakning tomonlari 	  a va  b berilgan . Uning yuzasi S = a b ;   va  P = 2( a + b )   perimetri aniqlansin .
+Begin 4   Aylananing diametri  d  berilgan . Uning uzunligi  aniqlansin . L = π d ; π = 3,15
+Begin5. Kubning yon tomoni a berilgan. Uning hajmim V=a 3   va to’la sirti   S= 6 a aniqlansin.
+Begin6. Paralelepepidning tomonlari a, b, s berilgan. Uning hajmini  V = abc   tola sirti  S=2(ab+ bc+ac ) aniqlansin.
+Begin7  Doiraning radiusi   R   berilgan. Uning uzunligi L va  yuzasi  S   aniqlansin.  L= 2πR;S= πR2;
+Begin8.  Ikkita   son  a   va    b   berilgan.    Ularning   o'rta     arifmetigi         aniqlansin.
+Begin 9  Ikkita manfiy bo’lmagan  son   a  va  b berilgan.  Ularning o’rta geometrigi  aniqlansin . √ab
+Begin 10  Nolga teng bo'Imagan ikkita son berilgan. Ularning yig'indisini, ko’paytmasini va har birining kvadrati aniqlansin.
+Begin 11 . Nolga teng bo'Imagan ikkita son berilgan. Ularning yig'indisini, ko’paytmasini va har birining moduli aniqlansin.
+Begin12. To'gri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi s va perimetri p aniqlansin.  c=√(a^2+b^2 )
+Begin13. Umumiy markazga bo'lgan ikkita aylana radiusi berilgan. R1, R2, (R1> R2) ularnig yuzalari  S1 va S2, ularning ayirmasi  aniqlansin s = πK12.
+Begin14. Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin L=2πR, S=πR12
+Begin 15. Aylananing yuzasi S berilgan. Uning diametri d va radiusi R aniqlansin.
+Begin 16. Sonlar o'qida ikkita nuqta orasidagi masofa aniqlansin. 
+Begin 17. Sonlar o'qida A, V, S nuqtalar berilgan. AC  va  BC  kesmalarning    uzunligini  va 
+kesmalar uzunligining yig'indisini topuvchi programma tuzilsin.
+Begin 18. Sonlar o'qida A, V, S nuqtalar berilgan. S nuqta A va V nuqtalar orasida joylashgan. AC va BC kesmalar uzunligining ko'paytmasini toping.
+Begin 19. To'g'ri to'rtburchakning qarama-qarshi uchlari koordinatlari berilgan. Uning tomonlari koordinata o'qiga parallel. To'g'ri to'rtburchakning perimetri va yuzasi aniqlansin.
+Begin 20. Tekislikdagi berilgan ikki nuqta    (x1 y1), (x 2, y2 ), (x3  , y3 )     orasidagi masofa topilsin.   √(  )  (X2-X1)2 +(y2 – y1)2
+Begin 21. Uchburchakning uchtatomoni uchlari koordinatlari berilgan    ikki nuqta orasidagi masofani topish Begin20 da berilgan. Uchburchakning   yuzasini va  perimatrini toping.
+Begin 22. Berilgan A va V sonlarining qiymatlarini almashtiring. A va V ning yangi qiymati ekranga chiqarilsin.
+Begin 23. A, V va S sonlari berilgan. A ni qiymati V ga, V ni qiymati S ga va S ni qiymati A ga almashtirilsin. A, V va S ning yangi qiymatilari ekranga chiqarilsin.
+Begin 24. A, V va S sonlari berilgan. A ni qiymati S ga, S ni qiymati V ga va V ni qiymati A ga almashtirilsin. A, V va S ning yangi qiymatilari ekranga chiqarilsin.
+Begin 25. x ning qiymati berilganda  y=3x6-6x2-7  funksiyaning qiymati aniqlansin.
+Begin 26. x ning qiymati berilganda y=4(x-3)6 -7(x-3)3 + 2   funksiyaning qiymati aniqlansin.
+Begin 27. A soni berilgan. A ning  A2, A4 ,A8  darajalarini aniqlovchi programma tuzilsin.
+Begin 28. A soni berilgan. A ning  A2, A3 ,A5 ,A10 ,A15    darajalarini aniqlovchi programma tuzilsin.
+Begin29. a burchak gradusda berilgan ( 00 < a < 3600  )Berilgan burchakning qiymatini radianga o'tkazuvchi programma tuzilsin.
+Begin30.  a burchak radianda berilgan( 0 < a < 2p ). Berilgan burchakning qiymatini gradusga o'tkazuvchi programma tuzilsin.
+Begin31. Temperatura   TF  Farengeytda berilgan. Temperatura qiymatini  TC     gradus selsiyga o'tkazuvchi programma tuzilsin.  Tc = (TF - 32 ) * 5/9
+Begin32. Temperatura  TF   gradus Selsiyda berilgan. Temperatura qiymatini   TC      Farengeytga o'tkazuvchi programma tuzilsin.  Tc = (TF - 32 ) * 5/9
+Begin33. X kg konfet A so'm turadi. 1 kg va Y kg konfet qancha turishini aniqlovchi programma tuzilsin.
+Begin34. X kg shokolad A so'm turadi va Y kg konfet V so'm turadi. 1 kg shokolad 1 kg konfetdan qancha qimmat turishini aniqlovchi programma tuzilsin.
+Begin35. Qayiqning tezligi V km / soat   daryo oqimining tezligi  U km / soat, (V>U) Qayiqning daryo    oqimi bo'yicha harakatlanish vaqti T1   , oqimga qarshi T2 Qayiqni yurgan S yo'lini aniqlovchi programma tuzilsin.
+Begin36. Birinchi avtomabilning tezligi  V1 km / soat   ikkinchisiniki, V2 km / soat   ular orasidagi masofa   S. Ular biri-biridan uzoqlasha boshlasa T   vaqtdan keyin ular orasidagi masofani aniqlaydigan programma tuzilsin.
+Begin37. Birinchi avtomabilning tezligi V1 km / soat , ikkinchisiniki  V2 km / soat   ,ular orasidagi masofa S. Ular biri—biri tomonga harakatlana boshlasa T vaqtdan keyin ular orasidagi masofani aniqlaydigan programma tuzilsin.
+Begin38. A va V koeffisentlari berilgan, A-x+B = 0 chiziqli tenglamaning yechimini (x ni) aniqlaydigan programmatuzilsin. (A ≠0 )
+Begin39. A, V, S koeffisentlari berilgan,   Ax2+Bx+C = 0   kvadrat tenglamaning diskriminanti noldan katta bo'lsa uning yechimlarini aniqlaydigan programma tuzilsin. (A≠0 )    x1,2 =(-B ± √D)/2  , D = B 2 – 4 A C ;
+Begin40.   A1, B1, C31, A2, B2, C2 koeffisentlari berilgan, chiziqli tenglamalar sistemasi yechimlarini aniqlaydigan programma tuzilsin.  {█(A_1∙x + B_1∙x= C_1@ A_2 〖∙x+B〗_(2 )∙x= C_2 )┤       x = ( C1B2 – C2B1)/D,   y= (A1C2-A2C1 ) /D,  D= (A1B2 –A2B1)
+
+Boolean 1. A butun soni berilgan. Jumlani rostlikka tekshiring: “A soni musbat".
+Boolean 2. A butun soni berilgan. Jumlani rostlikka tekshiring: “A soni toq son".
+Boolean 3. A butun soni berilgan. Jumlani rostlikka tekshiring: “A soni juft son".
+Boolean 4. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A>2 va B<=3”.
+Boolean 5. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A >= 0 yoki V < -2"
+Boolean 6. Uchta A, V, S butun sonlar berilgan. Jumlani rostlikka tekshiring: “A<= V <= S"
+Boolean 7. Uchta A, V, S butun sonlar berilgan. Jumlani rostlikka tekshiring: “B soni A va S sonlari orasida yotadi”.
+Boolean 8. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A va V sonlari toq sonlar".
+Boolean 9. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A va V sonlarning hech bo’lmaganda bittasi toq son".
+Boolean10. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A va V sonlarning faqat bittasi toq son".
+Boolean11. Ikkita butun A va V sonlari berilgan. Jumlani rostlikka tekshiring: “A va V sonlarining har ikkalasi ham yoki toq son yoki juft son".
+Boolean12. Uchta A, V, S butun sonlar berilgan. Jumlani rostlikka tekshiring: “A, V, S sonlarning har biri musbat".
+Boolean13. Uchta A, V, S butun sonlar berilgan. Jumlani  rostlikka tekshiring: “A, V, S sonlarning hech bo’lmaganda bittasi musbat”.
+Boolean14. Uchta A, V, S butun sonlar berilgan. Jumlani rostlikka tekshiring: “A, V, S sonlaridan faqat bittasi musbat son".
+Boolean15. Uchta A, V, S butun sonlar berilgan. Jumlani rostlikka tekshiring: “A, V, S sonlardan faqat ikkitasi musbat son".
+Boolean16. Musbat butun son berilgan. Jumlani rostlikka tekshiring: “Berilgan son ikki xonali juft son”.
+Boolean17. Musbat butun son berilgan. Jumlani rostlikka tekshiring: “Berilgan son uch xonali toq".
+Boolean18. Jumlani rostlikka tekshiring: Berilgan uchta butun sonlarning hech bo’lmaganda 2 tasi bir birigateng”.
+Boolean19. Jumlani rostlikka tekshiring: “Berilgan uchta butun sonlarning hech bo'lmaganda bir jufti o’zaro qarama-qarshi".
+Boolean20. Uch xonali son berilgan. Jumlani rostlikka tekshiring: “Ushbu sonning barcha raqamlari xar hil ‘’
+Boolean21. Uch xonali son berilgan. Jumlani rostlikka tekshiring: “Ushbu sonning raqamlari ketama- ket o’suvchi bo’lib joylashgan".
+Boolean22. Uch xonali son berilgan. Jumlani rostlikka tekshiring: “Ushbu sonning raqamlari ketama- ket o’suvchi bo'lib joylashgan yoki kamayuvchi ketma-ketlikka ega".
+Boolean23. Uch xonali son berilgan. Jumlani rostlikka tekshiring: “Ushbu sonni chapdan o’qiganda ham, o’ngdan o'qiganda ham bir xil".
+Boolean24. A, V, S sonlar beilgan (A soni noldan farqli). D=B2-4AC diskerminantdan foydalanib, jumlani rostlikka tekshiring: “Ax2+Bx+C=0 kvadrat tenglama haqiqiy ildizga ega".
+Boolean25. x, u sonlar berilgan. Jumlani rostlikka tekshiring: “Koordinatalari (x(y) bo’lgan nuqta, koordinata choragining ikkinchisida yotadi".
+Boolean26. x, u sonlar berilgan. Jumlani rostlikka tekshiring Koordinatalri (x,y) bo’lgan nuqta koordinata choragining to’rtinchisida yotadi".
+Boolean27. x, u sonlar berilgan. Jumlani rostlikka tekshiring: !!Koordinatalri (x,y) bo'lgan nuqta koordinata choragining ikkinchisida yoki uchunchisida yotadi".
+Boolean28 .x, u sonlar berilgan. Jumlani rostlikka tekshiring: !!Koordinatalri (x,y) bo'lgan nuqta koordinata choragining birinchi yoki uchunchisida yotadi".
+Boolean29. (x, y), (x1, y1), (x2, y2) sonlari berilgan. Jumlani rostlikka tekshiring: !!Koordinatalari (x,y) bo’lgan nuqta, chap yuqori cho’qqisi (x1,y1) koordinatalarga ega bo’lgan va o’ng pastikisi (x2,y2) bo’lgan, tomonlari esa koordinata o’qlariga parallel bo’lgan to’rtburchak ichida yotadi".
+Boolean30. a, b, s butun sonlari berilgan. Jumlani rostlikka tekshiring. a, b, c tomonli uchburchak teng tomonli bo’ladi".
+Boolean31. a, b, s butun sonlari berilgan. Jumlani rostlikka tekshiring a, b, c tomonli uchburchak teng yonli bo’ladi".
+Boolean32. a, b, s butun sonlar berilgan. Jumlani rostlikka tekshiring: “a, b, c tomonli uchburchak to’g’ri burchakli".
+Boolean33. a, b, s butun sonlar berilgan. Jumlani rostlikka tekshiring: “a, b, s tomonli uchburchak yasash mumkin”.
+Boolean34. Shaxmat doskasining x, u koordinatalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Doskaning chap pastki maydoni (1,1) qoraligini hisobga olib, jumlani rostlikka tekshiring: "Berilgan (x, y) maydon oq"  
+Boolean35. Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: "Berilgan maydonlar bir xil rangda".
+Boolean36 Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: “Ruh bir yurishda bir maydondan ikkinchisiga o’ta oladi".
+Boolean37. Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: Shoh bir yurishda bir maydondan ikkinchisiga o’ta oladi."
+Boolean38. Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: Fil bir yurishda bir maydondan ikkinchisiga o’ta oladi".
+Boolean39. Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: “Farzin bir yurishda bir maydondan ikkinchisiga o’ta oladi".
+Boolean40. Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: :!Ot bir yurishda bir maydondan ikkinchisiga o’ta oladi".
+
+Integer 1. Uzunlik L santimetrda berilgan. Undagi to'liq metrlar sonini aniqlovchi programma tuzilsin. (1m=100sm)
+Integer 2. Og'irlik M kilogramda berilgan. Undagi to'liq tonnalar sonini aniqlovchi programme tuzilsin. (1t=1000kg)
+Integer 3. Faylning hajmi baytlarda berilgan. Bo'lib butunni olish operatsiyasidan foydalanib fayl hajmining to’liq kilobaytlarda ifodalovchi programme tuzilsin. (1Kb=1024 b)
+Integer 4. A va V (A > B) musbat sonlari berilgan. A kesmada, V kesmani necha marta joylashtirish mumkinligini aniqlovchi programma tuzilsin.
+Integer 5. A va V (A > B) musbat sonlar berilgan. A kesmada V kesmani necha marta joylashtirish mumkin. A kesmada V kesmaningjoylashmagan qismini aniqlovchi programma tuzilsin.
+Integer 6. Ikki xonali son berilgan. Oldin uning o’nliklar xonasidagi raqamni, so'ng birlar xonasidagi raqamni chiqaruvchi programma tuzilsin.
+Integer 7. Ikki xonali son berilgan. Uning raqamlari yig'indisini aniqlovchi programma tuzilsin.
+Integer 8. Ikki xonali son berilgan. Uning raqamlari o’mini almashtirishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin.
+Integer 9. Uch xonali son berilgan. Uning yuzlar xonasidagi raqamini aniqlovchi programma tuzilsin.
+Integer 10. Uch xonali son berilgan. Oldin uni birliklar xonasidagi raqamni so'ng o'nliklar xonasidagi raqamni chiqaruvchi programma tuzilsin.
+Integer 11. Uch xonali son berilgan. Uning raqamlar yig'indisini aniqlovchi programma tuzilsin.
+Integer 12. Uch xonali son berilgan. Uning raqamlarini teskari tartibda yozishdan hosil bo'lgan sonni aniqlovchi program tuzilsin.
+Integer 13. Uch xonali son berilgan. Uning chapdan birinchi raqamini o’chirib o'ng tarafiga yozishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin.
+Integer 14. Uch xonali son berilgan. Uning o'ngdan birinchi raqamini o’chirib chap tarafiga yozishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin.
+Integer 15. Uch xonali son berilgan. Uning o'nliklar xonasidagi raqam bilan yuzliklar xonasidagi raqamni almashtirishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin. (Kirish =123; Natija = 213).
+Integer 16. Uch xonali son berilgan. Uning o'nliklar xonasidagi raqam bilan birliklar xonasidagi raqamni almashtirishdan hosil bo'lgan sonni aniqlovchi programma tuzilsin. (Kirish =123; Natija = 132).
+Integer 17. 999 dan katta bo'lgan son berilgan. Bir marta bo'lib butunni va bo'lib qoldiqni olish operatsiyasidan foydalanib berilgan sonni yuzliklar xonasidagi sonni aniqlovchi programma tuzilsin.
+Integer 18. 999 dan katta bo'lgan son berilgan. Bir marta bo'lib butunni va bo'lib qoldiqni olish operatsiyasidanfoydalanib berilgan sonni mingliklar xonasidagi sonni aniqlovchi programma tuzilsin.
+Integer 19. Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha minut to’la o'tganligini aniqlovchi programma tuzilsin.
+Integer 20. Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha to’la soat o'tganligini aniqlovchi programma tuzilsin.
+Integer 21. Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha minut va sekund o’tganini aniqlovchi programma tuzilsin.
+Integer 22. Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha soat va sekund o’tganini aniqlovchi programma tuzilsin.
+Integer 23. Kun boshidan boshlab N sekund vaqt o'tti. Kun boshidan boshlab qancha soat, minut va sekund o’tganini aniqlovchi programma tuzilsin.
+Integer 24. Hafta kunlari quyidagicha tartibda berilgan. 0-yakshanba, 1-dushanba, 2-seshanba, 3- chorshanba, 4-payshanba, 5-juma, 6-shanba. 1-365 oraliqda yotuvchi K soni berilgan. Agar 1-yanvar dushanba bo’lsa, kiritilgan K- kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi programma tuzilsin.
+Integer 25. Hafta kunlari quyidagicha tartibda berilgan. 0-yakshanba, 1-dushanba, 2-seshanba, 3- chorshanba, 4-payshanba, 5-juma, 6-shanba. 1-365 oraliqda yotuvchi K soni berilgan. Agar 1-yanvar payshanba bo’lsa, kiritilgan K - kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi programma tuzilsin.
+Integer 26. Hafta kunlari quyidagicha tartibda berilgan. 1-dushanba, 2-seshanba, 3-chorshanba, 4- payshanba, 5-juma, 6-shanba, 7-yakshanba. 1-365 oraliqda yotuvchi K soni berilgan. Agar 1-yanvar seshanba bo’lsa, kiritilgan K- kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi programma tuzilsin.
+Integer 27. Hafta kunlari quyidagicha tartibda berilgan. 1-dushanba, 2-seshanba, 3-chorshanba, 4- payshanba, 5-juma, 6-shanba, 7-yakshanba. 1-365 oraliqda yotuvchi    K soni berilgan. Agar 1-yanvar yakshanba bo’lsa, kiritilgan K - kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi programma tuzilsin.
+Integer 28. Hafta kunlari quyidagicha tartibda berilgan. 1-dushanba, 2-seshanba, 3-chorshanba, 4- payshanba, 5-juma, 6-shanba, 7-yakshanba (N 1-7gacha bo'lgan hafta kunlari soni). 1-365 oraliqda yotuvchi K soni berilgan. Agar 1-yanvar N-kunga to'g'ri kelsa, kiritilgan K - kun haftaning qaysi kuniga to'g'ri kelishini aniqlovchi programma tuzilsin.
+Integer 29. A, B, C butun sonlar berilgan. Tomonlari A va V bo'lgan to'g'ri to'rtburchakka tomoni S bo'lgan kvadrat eng ko'p joylashtirilsin. To'g'ri to'rtburchakka eng ko'p joylashgan kvadratlar soni va joylashmay qolgan qismi yuzasini aniqlovchi programma tuzilsin.
+Integer 30. Qaysidir yil berilgan. Berilgan yilning qaysi yuz yillikka kirishini aniqlovchi programma tuzilsin. (Masalan: 20 - yuz yillikning boshi 1901 yil).
+
+if1. Butun son berilgan. Agar, berilgan son musbat bo'lsa, 1 ga oshirilsin, aks holda o'zgartirilmasin. Hosil bo'lgan sonni ekranga chiqaruvchi programma tuzilsin.
+if2. Butun son berilgan. Agar, berilgan son musbat bo'lsa, 1 ga oshiring, aks holda 2 ga kamaytiring. Hosil bo'lgan sonni ekranga chiqaruvchi programma tuzilsin.
+if3. Butun son berilgan. Agar, berilgan son musbat bo'lsa, 1 ga oshiring, agar manfiy bo'lsa 2 ga kamaytiring. Agar 0 ga teng bo'lsa, 10 ni o'zlashtirsin. Hosil bo'lgan sonni ekranga chiqaruvchi programma tuzilsin.
+if4. Uchta butun son berilgan. Shu sonlar orasidan nechta musbat son borligini aniqlovchi programma tuzilsin.
+if5. Uchta butun son berilgan. Shu sonlar orasidan nechta musbat va manfiy son borligini aniqlovchi programma tuzilsin.
+if6. Ikkita butun son berilgan. Shu sonlarning kattasini aniqlovchi programma tuzilsin.
+if7. Ikkita butun son berilgan. Shu sonlarning kichigini tartib raqamini aniqlovchi programma tuzilsin.
+if8. Ikkita butun son berilgan. Shu sonlarning avval kattasini keyin kichigini ekranga chiqaruvchi programma tuzilsin.
+if9. A va B haqiqiy sonlari beringan. Shu sonlarni shunday o’zgartirish kerakki, A son kichik B son katta bo'lsin. A va B ning qiymati ekranga chiqarilsin.
+if10. A va B butun sonlari berilgan. Agar o'zgaruvchilar o'zaro teng bo'lmasa, A va B o'zgaruvchilari ularning yig'indisini o'zlashtirsin. Agar teng bo'lsa, 0 ni o'zlashtirsin. A va B ning qiymati ekranga chiqarilsin.
+if11. A va B butun sonlari berilgan. Agar o'zgaruvchilar o'zaro teng bo'lmasa, A va B bu sonlarning kattasini o'zlashtirsin. Agar teng bo'lsa, 0 ni o'zlashtirsin. A va B ning qiymati ekranga chiqarilsin.
+if12. Uchta son berilgan. Shu sonlarni kichigini aniqlovchi programma tuzilsin.
+if13. Uchta son berilgan. Shu sonlarni o'ratachasi (ya’ni katta va kichik sonlar orasidagi son) ni aniqlovchi programma tuzilsin.
+if14. Uchta son berilgan. Shu sonlarni awal kichigini keyin kattasini ekranga chiqaruvchi programma tuzilsin.
+if15. Uchta son berilgan. Shu sonlarning yig'indisi eng katta bo’ladigan ikkitasini ekranga chiqaruvchi programma tuzilsin.
+if16. A, B, C haqiqiy sonlari berilgan. Agar berilgan sonlar o'sish tartibida berilgan bo'lsa, sonlarni ikkilantiring, aks holda sonlarni ishorasi o’zgartirilsin. A, B, C ning qiymatlari ekranga chiqarilsin.
+if17. A, B, C haqiqiy sonlari berilgan. Agar berilgan sonlar o'sish yoki kamayish tartibida berilgan bo'lsa, sonlarni ikkilantiring, aks holda sonlarni ishorasi o’zgartirilsin. A, B, C ning qiymatlari ekranga chiqarilsin.
+if18. Uchta butun son berilgan. Shu sonlarni ikkitasi o'zaro teng, qolgan bittasini tartib raqami aniqlansin.
+if19. To'rtta butun son berilgan. Shu sonlarni uchtasi o'zaro teng, qolgan bittasini tartib raqami aniqlansin.
+if20. Sonlar o'qida uchta A, B, C nuqtalar berilgan. A nuqtaga eng yaqin nuqta va ular orasidagi masofa topilsin.
+if21. Koordinatalar tekisligida butun son berilgan. Agar nuqta koordinata boshida yotsa, 0 chiqarilsin. Agar nuqta OX yoki OY o'qlarida joylashsa mos holda 1 va 2 chiqarilsin. Agar nuqta koordinata o'qida joylashmasa 3 chiqarilsin.
+if22. OX va OY koordinata o'qlarida yotmaydigan nuqta berilgan. Nuqta joylashgan koordinata choragi aniqlansin.
+if23. Koordinata o'qlariga parallel ravishda to'g'ri to'rtburchakning uchta uchi berilgan, to’rtinchi uchi koordinatasini aniqlansin.
+if24. X haqiqiy soni berilgan. Quyidagi funksiya hisoblansin. f (x) = {█(2 sin⁡〖x    agar   x>0 〗@x-6    agar  x ≤0)┤
+if25. X haqiqiy soni berilgan. Quyidagi funksiya hisoblansin. f ( x ) = {█(2 x ,agar x< -2  yoki  x> 2;@-3x,aks  xolda  )┤
+if26. X haqiqiy soni berilgan. Quyidagi funksiya hisoblansin. f( x ) = {█(-x  ,agar   x≤0 ;@x^(2   ),   agar  0<x<2 ; @4,   agar  x≥2 ; )┤
+if27. X haqiqiy soni berilgan. Quyidagi funksiya hisoblansin. f ( x ) = {█(0 ,agar   x≤0;@1,agar  x ∈[0,1)┤[2,3)@-1 agar x ∈[1,2)┤[3,4))┤
+if28. Yil berilgan (musbat butun son). Berilgan yilda nechta kun borligini aniqlovchi programma tuzilsin. Kabisa yilida 366 kun bor, kabisa bo’lmagan yilda 365 kun bor. Kabisa yil deb 4 ga karrali yillarga aytiladi. Lekin 100 ga karrali yillar ichida faqat 400 ga karrali bo’lganlari kabisa yil hisoblanadi. Masalan 300,1300 va 1900 kabisa yili emas. 1200 va 2000 kabisa yili.
+if29. Butun son berilgan. Berilgan sonni “musbat toq son", "manfiy juft son", "son nolga teng" va h.k. ekranga yozadigan programma tuzilsin.
+if30. 1-999 oraliqdagi sonlar berilgan. Berilgan sonni "ikki xonali juft son", "uch xonali toq son" va h.k. ekranga yozadigan programma tuzilsin.
+
+Case 1 1-7 gacha bo’lgan butun sonlar berilgan. Kiritilgan songa mos ravishda hafta kunlarini so’zda ifodalovchi programma tuzilsin. (1-Dushanba,2- Chorshanba, h.k)
+Case2. K butun soni berilgan. Baho natijalarini chiqaruvchi programma tuzing.(1-yomon, 2-qoniqarsiz, 3-qoniqarli, 4-yahshi, 5-a’lo). Agar k soni 1-5 gacha oraliqqa tegishli bo'lmasa :!xato,! deb chiqarilsin.
+Case3. Oy raqamini berilgan. Kiritilgan oy qaysi faslga tegishli ekanligini chiqaruvchi programma tuzilsin. (Masalan: 2 chi oy, “qish")
+Case4. Oy raqami berilgan. Shu oyda nechta kun borligini aniqlovchi programma tuzilsin.
+Case5. A, B haqiqiy va amal butun soni berilgan. A va B sonlari ustida arifmetik amallar bajaruvchi progaramma tuzilsin. amal quyidagi qiymatlarni qabul qiladi: 1-qo'shish, 2-ayirish, 3-bo'lish, 4- ko'paytirish.
+Case6. Uzinlik birliklari quyidagi tartibda berilgan. 1-desimetr, 2-kilometr, 3-metr, 4-millimeter, 5- santimetr. Uzunlik birligini bildiruvchi son berilgan (1-5 oraliqda) va shu birlikdagi kesma uzunligi berilgan (haqiqiy son). Kesmaning uzunligini metrlarda ifodalofchi programma tuzilsin.
+Case7. Og'irlik birliklari quyidagi tartibda berilgan.l-kilogramm, 2-milligramm, 3-gramm, 4-tonna, 5- sentner. Og'irlik birligini bildiruvchi soni berilgan va shu birlikdagi og'irlik qiymati berilgan. Og'irlikni kilogramda ifodalofchi programma tuzilsin.
+Case8. Sanani bildiruvchi ikkita butun son berilgan D (kun) va M (oy). (Kabisa bo'lmagan yil sanasi kiritiladi). Berilgan sanani ifodalovchi programma tuzilsin. Kabisa yilida 366 kun, kabisa bo’lmagan yilda 365 kun bor bo’ladi.
+Case9. Ikkita butun son berilgan D (kun) va M (oy). (Kabisa bo'lmagan yil sanasi kiritiladi). Berilgan sanadan keyingi sanani ifodalovchi programma tuzilsin.
+Case 10. Robot faqat to'rtta tomonga ko'cha oladi(V-shimol, “j,!-janub, !,q,!-sharq, ::g"-g’arb) va uchta raqamli kamanda: 0-harakni davom ettir, 1-chapga buril, 2-o'ngga buril. Y - robot yo'nalishi va K - kamanda berilgan. Berilgan kamanda bajarilgandan keying robot holatini aniqlovchi programma tuzilsin.
+Case11. Lokatr dunyoning bir tomoniga qaratilgan(V-shimol, “f-janub, “q"-sharq, :‘gi!-g’arb) va uchta raqamli kamanda: 0-o'ngga buril, 1-chapga buril, 2-burilish 180°. S - lakatrning boshlang'ich holati va K1, K2 - kamandalar berilgan. Berilgan kamanda bajarilgandan keying lakatr holatini aniqlovchi programma tuzilsin.
+Case12. Doiraning elementlari quyidagi tartibda nomerlangan. 1-radius R,   2-diametr D = 2R  ,3.  Uzunligi  L=2pR,    4-doiraning yuzasi S= pR2,   shu elementlardan bittasi berilganda qolganlarini topuvchi programma tuzilsin. p=3,14;
+Case13. Teng yonli uchburchakning elementlari quyidagi tartibda nomerlangan. 1-kateti, 2-gipotenuza c=a√2  , 3-gipotenuzaga tushirilgan balandlik h = c / 2 ,  4-yuzasi S=( c∙h)/2 Shu elementlardan bittasi berilganda qolganlarini topuvchi programma tuzilsin.
+Case14. Teng  tomonli uchburchakning elementlari quyidagi tartibda nomerlangan. 1-tomoni a, 2-ichki chizilgan aylananing radiusi R1 = a √3/6,    3. tashqi chizilgan aylananing radiusi  R 2 =  2 R 1  ,   4-yuzasi  S =  a2  √(3 )/4,  elementlardan bittasi berilganda qolganlarini topuvchi programma tuzilsin.
+Case15. O'yin kartasi turlari berilgan 1-g'isht, 2-olma, 3-chillak, 4-qarg'a. 10 lik kartadan katta kartalar quyidagi qiymatlarni o'zlashtirgan: 11-valet, 12-dama, 13-qirol, 14-tuz. Ikkita butun son berilgan N-karta qiymat  ( 6 ≤ N ≤  14 ) M-karta turi   ( 1 ≤  M ≤4  ) kiritilganda karta nomlarini (masalan: :iolti qarg'a") chiqarib beruvchi programma tuzilsin.
+Case16. Yoshni yillarda aniqlovchi 20-69 gacha butun son berilgan. Son kiritilganda unga mos so'zlarda ifodalovchi programma tuzilsin. “yigirma yosh", “qirq uch yosh" va h.k.)
+Case17. O'quv masalalarini aniqlovchi 10-40 gacha butun son berilgan. Son kiritilganda unga mos so'zlarda ifodalovchi programma tuzilsin. (“yigirmata masala", “o'n uchta masala" va h.k.)
+Case18. 100-999 gacha oraliqdagi sonlarni so'zlarda ifodalovchi programma tuzilsin. (masalan: 123- :‘biryuz yigirma uch”).
+Case19. Sharq kalendarida 60 yillik davr qabul qilingan. Yil muchali 5 ta rang (yashil, qizil, sariq, oq va qora) va 12 ta hayvon (sichqon, sigir, yo'lbars, quyon, ajdar, ilon, ot, qo'y, maymun, tovuq, it va to'ngizlardan) nomlaring kombinatsiyasidan kelib chiqadi. Yilning raqamiga qarab uning muchalini aniqlovchi programma tuzilsin. 1984-davr boshi: “Yashil sichqon yili".
+Case20. Ikkita burj vaqtlarini aniqlovchi butun son berilgan: D(kun), M(oy). Berilgan sana qaysi burjga kirishini aniqlovchi programma tuzilsin. “Qovg'a (20.1-18.2)", ::Baliq (19.2-20.3)", !!Qo'y (21.3-19.4)", “Buzoq (20.4-20.5)’, “Egizaklar (21.5- 21.6)", "Qisqichbaqa (22.6-22.7)", "Arslon (23.7-22.8)", "Parizod (23.8-22.9) ", "Tarozi (23.9-22.10)", “Chayon (23.10-22.11)’, !,0'qotar (23.11-21.12)’, “Echki (22.12-19.1)".
+
+For1. k va n butun sonlari berilgan (n > 0). k sonini n marta chiqaruvchi programma tuzilsin.
+For2. a va b butun sonlari berilgan (a < b). a va b sonlari orasidagi barcha butun sonlarni (a va b ni ham) chiqaruvchi va chiqarilgan sonlar sonini chiqaruvchi programma tuzilsin. (a va b xam chiqarilsin).
+For3. a va b butun sonlari berilgan (a < b). a va b sonlari orasidagi barcha butun sonlarni (a va b dan tashqari) kamayish tartibida chiqaruvchi va chiqarilgan sonlar sonini chiqaruvchi progma tuzilsin.
+For4. Bir kg konfetning narxi berilgan (haqiqiy son). 1, 2, ..., 10 kg konfetni narxini chiqaruvchi programma tuzilsin.
+For5. Bir kg konfetning narxi berilgan (haqiqiy son). 0.1, 0.2, ..., 0.9, 1 kg konfetni narxini chiqaruvchi programma tuzilsin.
+For6. Bir kg konfetning narxi berilgan (haqiqiy son). 1.2, 1.4, ..., 2 kg konfetni narxini chiqaruvchi programma tuzilsin.
+For7. a va b butun sonlari berilgan (a < b). a dan b gacha bo’lgan barcha butun sonlar yig’indisini chiqaruvchi programma tuzilsin.
+For8. a va b butun sonlari berilgan (a < b). a dan b gacha bo’lgan barcha butun sonlar ko’paytmasini chiqaruvchi programma tuzilsin.
+For9. a va b butun sonlari berilgan (a < b). a dan b gacha bo’lgan barcha butun sonlar kvadratlarining yig’indisini chiqaruvchi programma tuzilsin.
+For10. n butun soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. S = 1 + 1 /2 + 1 /3 + ... + 1 /n
+For11. n butun soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. S = n2 +(n+1)2+(n+2)2 + ... (2*n)2
+For12. n butun soni berilgan (n > 0). Quyidagi ko’paytmani hisoblovchi programma tuzilsin. S = 1.1 * 1.2 * 1.3 *... (n ta ko’payuvchi)
+For13. n butun soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. S = 1.1 -1.2 + 1.3 -... (n ta qo’shiluvchi, ishoralar almashib keladi. Shart operatoridan foydalanmang)
+For14. n butun soni berilgan (n > 0). Shu sonning kvadratini quyidagi formula asosida hisoblovchi programma tuzilsin. n2= 1 +3 + 5 + ... + (2*n -1) har bir qo’shiluvchidan keyin natijani ekranga chiqarib boring. Natijda ekranda 1 dan n gacha bo’lgan sonlar kvadrati chiqariladi.
+For15. n butun soni va a haqiqiy soni berilgan (n > 0). a ning n - darajasini aniqlovchi programma tuzilsin. an=a*a*a...a;
+For16. n butun soni va a haqiqiy soni berilgan (n > 0). Bir sikldan foydalanib a ning 1 dan n gacha bo’lgan barcha darajalarini chiqaruvchi programma tuzilsin.
+For17. n butun soni va a haqiqiy soni berilgan (n > 0). Bir sikldan foydalanib quyidagi a ning 1 dan n gacha bo’lgan barcha darajalarini chiqaruvchi va yig'indini hisoblovchi programma tuzilsin. 1 + a + a2 + a3 + ... an
+For18. n butun soni va a haqiqiy soni berilgan (n > 0). Bir sikldan foydalanib quyidagi a ning 1 dan n gacha bo’lgan barcha darajalarini chiqaruvchi va yig'indini hisoblovchi programma tuzilsin. 1 - a + a2-a3 + ... (-1)n an Shart operatoridan foydalanilmasin.
+For19. n butun soni berilgan (n > 0). Birdan n gacha bo’lgan sonlar ko’paytmasini chiqaruvchi programma tuzilsin. n! = 1 * 2 * ... n Birdan n gacha bo’lgan sonlar ko’paytmasi n faktorial deyiladi.
+For20. n butun soni berilgan (n > 0). Bir sikldan foydalangan holda quyidagi yig’indini hisoblovchi programma tuzilsin. 1! + 2! + 3! + ... +n!
+For21. n butun soni berilgan (n > 0). Bir sikldan foydalangan holda quyidagi yig’indini hisoblovchi programma tuzilsin. (Olingan natija taxminan e = exp(1) ga yaqinlashadi) 
+1 + 1/(1!) +1/(2!) +1/(3!) + ... +1/(n!)
+For22. n butun soni va x haqiqiy soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. (Olingan natija taxminan ex ga yaqinlashadi) 
+1 +x + x2/(2!) + x3/(3!)+ ... +xn/( n!)
+For23. n butun soni va x haqiqiy soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. (Olingan natija taxminan sin(x) ga yaqinlashadi) 
+x- x3 / (3!) + x5 / (5!) -... +(-1)n x2n+1 /((2*n+1)!)
+For24. n butun soni va x haqiqiy soni berilgan (n > 0). Quyidagi yig’indini hisoblovchi programma tuzilsin. (Olingan natija taxminan cos(x) ga yaqinlashadi) 
+1- x2/ (2!) + x4 / (4!) -... +(-1)n x2n /((2*n)!)
+For25. n butun soni va x haqiqiy soni berilgan (n > 0, |x| < 1). Quyidagi yig’indini hisoblovchi programma tuzilsin. x- x2/2 + x3/3 -... +(-1)n_ 1 xn/n
+For26. n butun soni va x haqiqiy soni berilgan (n > 0, |x| < 1). Quyidagi yig’indini hisoblovchi programma tuzilsin. x- x3/3 + xs/5 -... +(-1)n x2n+1 /(2n + 1)
+For27. n butun soni va x haqiqiy soni berilgan (n > 0, |x| < 1). Quyidagi yig’indini hisoblovchi programma tuzilsin. 
+x + 1 * x3 / (2 * 3) + 1 *3*x5 / (2*4*5) + ... + 1*3* ...*(2’n-1)*x2n+1 /(2*4’..*(2*n)*(2*n+1))
+For28 n butun soni va x haqiqiy soni berilgan (n > 0, |x| < 1). Quyidagi yig’indini hisoblovchi programma tuzilsin. 
+1+X/2-1 *x2/(2 *4) + 1*3*x3/(2*4*6)-... + (-1)n-1  *1*3* ...*(2*n-3)*xn/(2*4*..*(2*n))
+For29. n butun soni va sonlar o’qida 2 ta A, V nuqta berilgan. (A, V haqiqiy son). [A, B] kesmani teng n ta kesmaga bo’ling. [A, B] kesmada ajratilgan barcha nuqtalarni chiqaring.
+For30. n butun soni va sonlar o’qida 2 ta A, V nuqta berilgan. (A, V haqiqiy son). [A, B] kesmani teng n ta kesmaga bo’ling. [A, B] kesmada ajratilgan barcha nuqtalar uchun F(X) = 1 - sin(X) funksiya qiymatini hisoblang.
+For31. n butun soni berilgan (n > 0). Quyidagi ketma - ketlikning dastlabki n ta hadini chiqaruvchi programma tuzilsin. A0 = 2;	AK = 2 + 1 / AK1; K =1,2,...
+For32. n butun soni berilgan (n > 0). Quyidagi ketma - ketlikning dastlabki n ta hadini chiqaruvchi programma tuzilsin. A0 = 1;	Ak = (Ak.1 + 1)/K; K = 1,2,...
+For33. n butun soni berilgan (n > 1). Fibonachchi ketma - ketlikning dastlabki n ta hadini chiqaruvchi programma tuzilsin. Fi = 1; F2"i;	FK~FK-2 + FK-1’ k=3,4,...
+For34. n butun soni berilgan (n > 1). Quyidagi ketma - ketlikning dastlabki n ta hadini chiqaruvchi programma tuzilsin. A1 = 1; A2 = 2;	AK = (AK_2 + 2*AK_1)/ 3;	K = 3,4,...
+For35. n butun soni berilgan (n > 2). Quyidagi ketma - ketlikning dastlabki n ta hadini chiqaruvchi programma tuzilsin. Ai = 1; A2 = 2; A3 = 3; AK = AK1 + AK2 - 2*AK3; K = 4, 5,... ichma - ich ochilgan sikllar
+For36. N va K butun sonlari berilgan. Quyidagi yig’indini chiqaruvchi programma tuzilsin. 1K + 2K+ +NK
+For37. N butun soni berilgan. Quyidagi yig’indini chiqaruvchi programma tuzilsin. 11 + 22 + ... +NN
+For38. N butun soni berilgan. Quyidagi yig'indini chiqaruvchi programma tuzilsin. 1N + 2N-I + ...+NI
+For39. A va V butun soni berilgan (A < B). A va V sonlari orasidagi barcha butun sonlarni chiqaruvchi programma tuzilsin. Bunda har bir son o’zining qiymaticha chiqarilsin. Ya’ni 3 soni 3 marta chiqariladi.
+For40. A va V butun soni berilgan (A < B). A va V sonlari orasidagi barcha butun sonlarni chiqaruvchi programma tuzilsin. Bunda A soni 1 marta, (A + 1) soni 2 marta chiqariladi va hakazo.
+
+While1 A va V butun musbat sonlari berilgan ( A> B). A usunlikdagi kesmada maksimal darajada V kesma joylashtirilgan. Akesmaning bo’sh qismini aniqlovchi programma tuzilsin. Ko’paytirish va bo’lish amallarini ishlatmang.
+While2 A va V butun musbat sonlari berilgan ( A > B). A usunlikdagi kesmada V kesmadan nechta joylashtirish mumkinligini aniqlovchi programma tuzilsin. Ko’paytirish va bo’lish amallarini ishlatmang.
+While3. N va K butun musbat sonlari berilgan. Faqat ayirish va qo’shish amallarini ishlatib N sonini K soniga bo’lgandagi qoldiq va butun qismini aniqlovchi programma tuzilsin.
+While4. n butun soni berilgan (n > 0). Agar n soni 3 ning darajasi bo’lsa “3 - ning darajasi", aks xolda “3 -ning darajasi emas" degan natija chiqaruvchi programma tuzilsin. Qoldiqli bo'lish va bo’lish amallarini ishlatmang.
+While5. 2 sonining qandaydir darajasini bildiruvchi n butun soni berilgan (n > 0). n = 2k. k ni aniqlovchi programma tuzilsin.
+While6. n natural soni berilgan (n > 0). Quyidagi ifodani hisoblovchi programma tuzilsin: n!! = n * (n - 2) * (n - 4)... Agar n juft bo’lsa oxirgi ko’payuvchi 2, toq bo’lsa 1 bo’ladi.
+While7. n natural soni berilgan (n > 0). Kvadrati n dan katta bo’ladigan eng kichik butun k sonini (k2 > n) aniqlovchi programma tuzilsin. Ildizdan chiqaruvchi funksiyadan foydalanmang.
+While8. n natural soni berilgan (n > 0). Kvadrati n dan katta bo’lmagan eng katta butun k sonini (k2 <= n) aniqlovchi programma tuzilsin. Ildizdan chiqaruvchi funksiyadan foydalanmang.
+While9. n natural soni berilgan (n > 1). 3k > n shartni qanoatlantiruvchi eng kichik butun k sonini aniqlovchi programma tuzilsin.
+While10. n natural soni berilgan (n > 1). 3k <= n shartni qanoatlantiruvchi eng katta butun k sonini aniqlovchi programma tuzilsin.
+While11. n natural soni berilgan (n > 1). (1 + 2 + 3 + ... + k) >= n shart bajariladigan eng kichik k sonini aniqlovchi programma tuzilsin. 1 dan k gacha bo’lgan yig’indi ham ekranga chiqarilsin.
+While12. n natural soni berilgan (n > 1). (1 + 2 + 3 + ... + k) <= n shart bajariladigan eng katta k sonini aniqlovchi programma tuzilsin. 1 dan k gacha bo’lgan yig’indi ham ekranga chiqarilsin.
+While13. a soni berilgan (a > 1). (1 + 1 12 + 1 / 3 + ... + 1 I k) >= a shart bajariladigan eng kichik k sonini aniqlovchi programma tuzilsin. Yig'indi ham ekranga chiqarilsin.
+While14 a soni berilgan (a > 1). (1 + 1 12 + 1 / 3 + ... + 1 / k) <= a shart bajariladigan eng katta k sonini aniqlovchi programma tuzilsin. Yig'indi ham ekranga chiqarilsin.
+While15. Bankka boshlang’ich S so’m qoyildi. Har oyda bor bo’lgan summa p foizga oshadi (0 < p < 25 ). Necha oydan keyin boshlang'ich qiymat 2 martadan ko'p bo'lishini hisoblovchi programma tuzilsin. Necha oy k - butun son. Bankda hosil bo'lgan summa haqiqiy son ekranga chiqarilsin.
+While16. Sportsmen birinchi kuni 10 km yugirib boshladi. Keyingi kunlari bir oldingi kunga nisbatan p foiz ko’p yugurdi (0 < p < 50). Sportsmenning necha kundan keyin jami yugurgan masogasi 200 km dan oshadi? Jami kunlar soni va masofani (butun son) chiqaruvchi programma tuzilsin.
+While17. n va m butun musbat sonlari berilgan (n > m). n sonini m soniga bo’lib butun va qoldiq qismlarini bo’lish va qoldiqni olish amallarini ishlatmasdantopuvchi programma tuzilsin.
+While18. n butun soni berilgan (n > 0). Bo’lib butun va qoldiq qismlarini aniqlash orqali, berilgan son raqamlarini teskari tartibda chiqaruvchi programma tuzilsin.
+While19. n butun soni berilgan (n > 0). Bo’lib butun va qoldiq qismlarini aniqlash orqali, berilgan son raqamlari yig’indisini va raqamlari sonini chiqaruvchi programma tuzilsin.
+While20. n butun soni berilgan (n > 0). Bo’lib butun va qoldiq qismlarini aniqlash orqali, berilgan son raqamlarining orasida 2 raqami bor-yo’qligini aniqlovchi programma tuzilsin.
+While21. n butun soni berilgan (n > 0). Bo’lib butun va qoldiq qismlarini aniqlash orqali, berilgan son raqamlarining orasida toq raqamlar bor - yo’qligini aniqlovchi programma tuzilsin.
+While22. n butun soni berilgan (n > 1). N sonini tub yoki tub emasligini aniqlovchi programma tuzilsin.
+While23. a va b butun musbat sonlari berilgan. Berilgan sonlarning eng katta umumiy bo’luvchisini aniqlovchi programma tuzilsin.
+While24. n butun soni berilgan (n > 1). n sonini Fibonachchi sonlari orasida bor — yo’qligini aniqlovchi programma tuzilsin. Fibonachchi sonlari quyidagi qonuniyat asosida topiladi. Fi = 1; F2 = 1; Fk= Fk_1, + Fk_2; k = 3,4,...
+While25. n butun soni berilgan (n > 1). n sonidan katta bo’lgan birinchi Fibonachchi sonini aniqlovchi programma tuzilsin. Fibonachchi sonlari while24 masalasida berilgan.
+While26. Fibonachchi soni bo’lgan n butun soni berilgan (n > 1). ( Fibonachchi sonlari while24 masalasida berilgan.) n sonidan bir oldingi va bir keyingi Fibonachchi sonlarini chiqaruvchi programma tuzilsin.
+While27. Fibonachchi soni bo’lgan n butun soni berilgan (n > 1). ( Fibonachchi sonlari while24 masalasida berilgan.) n soni Fibonachchi ketma - ketligining nechanchi xadi ekanini chiqaruvchi programma tuzilsin.
+While28. e haqiqiy musbat soni berilgan. Ketma - ketlik xadlari quyidagicha aniqlanadi: a 1 = 2 ; a k = 2 + 1 / a k – 1  ; k = 2, 3 . . .; |ak - ak-1| < e shartni qanoatlantiruvchi eng kichik   k  sonini aniqlovchi programma tuzilsin. a k  , a k – 1  ,  ham ekranga  chiqarilsin.
+While29. e haqiqiy musbat soni berilgan. Ketma - ketlik xadlari quyidagicha aniqlanadi: a1=1; a2=2; ak = ( ak-2 + 2 *ak- 1 )/3;   k = 3,4,...    Iak - ak-1| < e shartni qanoatlantiruvchi eng kichik k sonini aniqlovchi programma tuzilsin. ak va ak-1 ham ekranga chiqarilsin.
+While30 A, V, S musbat butun sonlari berilgan. Ax V to’rtburchak ichida tomoni S bo’lgan kvadratdan nechtasi sig’ishini aniqlovchi programma tuzilsin. Ko’paytirish va bo’lish amallarini ishlatmang.
+
+FunSimple 1 . Ixtiyoriy sonning 3-darajasini hisoblovchi PowerA3 nomli funksiya hosilqiling. PowerA3 funksiyasi orqali A, V, S haqiqiy sonlarining va D, E butun sonlarining 3 - darajasini hisoblovchi programma tuzilsin,
+FunSimple 2 . Ihtiyoriy sonning 2, 3, 4 - darajasini hisoblovchi PowerA234 nomli funksiya hosil qiling. PowerA234 funksiyasi orqali A, V, S haqiqiy sonlarining 2, 3, 4 - darajasini hisoblovchi programma tuzilsin. Funksiya prototipi quyidagicha bo’lishi mumkin: void PowerA234(float, float *, float *, float *);
+FunSimple 3 . 2 ta sonning o’rta arifmetigi va goemetrigini hisoblovchi MEAN nomli funksiya hosil qiling. MEAN funksiyasi orqali A, V, C, D sonlaridan (A, V), (A, C), (A, D) juftliklarining o’rta arifmetigi va geometrigini hisoblovchi programma tuzilsin. Funksiya prototipi quyidagicha bo’lishi mumkin: void MEAN(float, float, float *, float *);
+FunSimple 4. Teng tomonli 3 burchakning yuzasi va perimetrini hisoblovchi Triangle nomli funksiya hosil qiling. Triangle funksiyasi orqali 3 ta teng tomonli uchburchakning perimetri va yuzini hisoblovchi programma tuzilsin. voidTriangle(float, float *, float *);
+FunSimple 5 . To’g’ri to’rtburchakning yuzini va perimetrini uning qarama — qarshi uchlari koordinatasi orqali hisoblovchi RectPS nomli funksiya hosil qiling. (x1, y1, x2, y2) to’g’ri to’rtburchakning qarama -s qarshi uchlari. RectPS funksiyasi orqali 2 ta to’rtburchak yuzi va perimetrini hisoblang. To'rtburchak tomonlari koordinatalar o'qiga parallel.
+Funksiya prototipi quyidagicha bo’lishi mumkin: void RectPS(int, int, int *, int *);
+FunSimple 6 . Natural sonning raqamlari soni va raqamlari yig’indisini hisoblovchi DigitCountSum nomli funksiya hosil qiling. Bu funksiya orqali a, b, s sonlarining raqamlari soni va yig’indisini hisoblovchi programma tuzilsin. void DigitCountSum (int, int *, int *);
+FunSimple 7 . Butun musbat sonining raqamlarini teskari tartibda chiqaruvchi InvertDigit nomli funksiya hosil qiling. Bu funksiya orqali a, b, s sonlarining raqamlari teskari tartibda chiqaruvchi programma tuzilsin.
+Funksiya prototipi quyidagicha bo’lishi mumkin: int InvertDigit (int);
+FunSimple 8. Kiritilgan K butun musbat sonining o’ng tarafiga (oxiriga) R raqamini (1 <= R <= 9) qo’shuvchi AddRightDigit nomli funksiya hosil qiling. Funksiya prototipi quyidagicha bo’lishi mumkin: int AddRightDigit (int son, int raqam);
+FunSimple 9. Kiritilgan K butun musbat sonining chap tarafiga (boshiga) R raqamini (1 <= R <= 9) qo’shuvchi AddLeftDigit nomli funksiya hosil qiling. Funksiya prototipi quyidagicha bo’lishi mumkin: void AddLeftDigit (int xson, int raqam);
+FunSimple 10. Ikkita sonning qiymatini almashtiruvchi Swap nomli funksiya hosil qiling. Swap funksiyasi orqali A, V, C, D sonlaridan (A, B), (D, C) juftliklarining qiymatlarini almashtiruvchi programma tuzilsin.
+Funksiya prototipi quyidagicha bo’lishi mumkin: void Swap (int * int *);
+FunSimple 11 . X va Y sonlaridan kichigini X ga va kattasini Y ga yozuvchi Minmax(X, Y) funksiyasini hosil qiling. Minmax funksiyagini 4 marta chaqish orqali a, b, c, d butun sonlaridan kattasini va kichigini aniqlovchi programma tuzilsin.
+FunSimple 12 . A, V, S sonlarini o’sish tartibida joylashtiruvchi Sortlnc3(A, V, C) funksiyasini hosil qiling. Ya’ni A, V, S sonlari qiymatlarini shunday almashtiringki, natijada A ning qiymati eng kichik va S ning qiymati eng katta bo’lsin. Bu funksiya orqali (A1, B1, C1) va (A2, B2, C2) sonlarini tartiblang.
+FunSimple 13 . A, V, S sonlarini kamayish tartibida joylashtiruvchi SortDec3(A, V, C) funksiyasini hosil qiling. Ya'ni A, V, S sonlari qiymatlarini shunday almashtiringki, natijada A ning qiymati eng katta va S ning qiymati eng kichik bo’lsin. Bu funksiya orqali (A1, B1, C1) va (A2, B2, C2) sonlarini tartiblang.
+FunSimple 14 . O’ngga siklik siljishni amalga oshiruvchi ShiftRight3(A, V, C) funksiyasini hosil qiling. Ya’ni A ning qiymati V ga, V ning qiymati S ga, S ning qiymati Aga o’tib qolsin. Bu funksiya orqali (A1, B1, C1)va (A2, B2, C2) sonlarini siljiting.
+FunSimple 15 . Chapga siklik siljishni amalga oshiruvchi Shiftl_eft3(A, V, C) funksiyasini hosil qiling. Ya'ni S ning qiymati V da, V ning qiymati A ga, A ning qiymati S ga o’tib qolsin. Bu funksiya orqali (A1, B1, C1)va (A2, B2, C2) sonlarini siljiting.
+FunSimple 16 . Haqiqiy sonning ishorasini aniqlovchi ishora nomli funksiya hosil qiling. Funksiya argumenti noldan kichik bo'lsa -1; noldan katta bo’lsa 1; nolga teng bo'lsa 0 qiymat qaytarsin. Haqiqiy a va b sonlari uchun ishora(a) + ishora(b) ifodasi hisoblansin.
+FunSimple 17 . Kvadrattenglamaning ildizlar sonini aniqlovchi funksiya hosil qiling. A*x2 + B*x + C = 0 ko’rinishidagi tenglama kvadrat tenglama deyiladi. (A noldan farqli son)
+FunSimple 18 . Doiraning yuzini hisoblovchi funksiya hosil qiling. Bu funksiya yordamida 3 ta doira yuzini hisoblang. Doiraning yuzi S = n R2 orqali hisoblanadi. Pi = 3.1415 ni o’zgarmas deb qabul qiling.
+FunSimple 19 . Markazi bir nuqtada bo'lgan, R1 va R2 radiusga ega 2 ta aylananing ustma - ust tushmaydigan (kesishmaydigan) qismining yuzasini topuvchi RingS nomli funksiya hosil qiling.
+Doiraning yuzini hisoblash formulasidan foydalaning. S = TT R2 Pi = 3.1415 ni o’zgarmas deb qabul qiling.
+
+FunSimpIe20. To’g’ri burchakli uchburchakning katetlari A va V berilganda, uning perimetrini hisoblovchi TriangleP nomli funksiya hosil qiling.
+
+FunSimple21. A va V sonlari orasidagi sonlar yig’indisini hisoblovchi SumRange(A, B) nomli funksiya hosil qiling. Agar A > V bo'lsa, funksiya 0 qiymat qaytaradi. Bu funksiya orqali A dan V gacha va V dan S gacha bo'lgan sonlar yig'inddisini hisoblang. A, V, S butun sonlar.
+FunSimple22. Arifmetik amallarni bajaruvchi Calc(A, B, Op) funksiyasini hosil qiling. A va V haqiqiy sonlar. Op o'zgaruchisi orqali bajariladigan arifmetik amal aniqlanadi. 1 - ayirish, 2 - ko'paytirish, 3 - bo'lish, boshqalari qo’shish. Shu funksiya orqali A va V sonlari uchun N1, N2, N3, N4 amallari bajarilsin. (N1 - N4 butun sonlar)
+FunSimple23. X va Y butun sonlari berilgan (X va Y noldan farqli). (X, Y) nuqta qaysi chorakda ekanini aniqlovchi Quarter nomli funksiya hosil qiling. Bu funksiya orqali 4 ta  nuqtaning choragini aniqlang.
+FunSimple24. Butun sonning juft - toqligini aniqlovchi Even(K) funksiyasini hosil qiling. Funksiya K juft son bo’lsa - true, aks xolda false qiymat qaytarsin. Bu funksiya orqali 3 ta sonning juft yoki toqligi aniqlansin.
+FunSimple25. IsSquare(K) mantiqiy funksiyasini hosil qiling. (K > 0). Agar K biror butun sonning kvadrati bo’lsa - true, aks xolda false qiymat qaytarilsin. Shu funksiya orqali 3 ta sonni tekshiring.
+FunSimple26. lsPower5(K) mantiqiy funksiyasini hosil qiling. (K > 0). Agar Ksoni 5 ning biror darajasi bo’lsa - true, aks xolda false qiymat qaytarilsin. Shu funksiya orqali 5 ta sondan nechtasi 5 ning darajasi ekanini aniqlovchi programma tuzilsin.
+FunSimple27. lsPowerN(K, N) mantiqiy funksiyasini hosil qiling. (K > 0). Agar K soni N soninig biror darajasi bo’lsa - true, aks xolda false qiymat qaytarilsin. Shu funksiya orqali 5 ta sondan nechtasi N ning darajasi ekanini aniqlovchi programma tuzilsin.
+FunSimple28. IsPrime(N) mantiqiy funksiyasini hosil qiling. (N > 0). Agar N soni tub bo’lsa - true, aks holda false qiymat qaytarilsin. Shu funksiya orqali kiritilgan k ta sondan nechtasi tub ekanini aniqlovchi programma tuzilsin.
+FunSimple29. Butun qiymat qaytaruvchi DigitCount(K) funksiyasini hosil qiling. (K > 0). Funksiya K ning raqamlari sonini qaytarsin. Shu funksiya orqali 5ta sonning raqamlari soni aniqlansin.
+FunSimple30. Butun qiymat qaytaruvchi DigitN(K, N) funksiyasini hosil qiling. (K > 0). Funksiya K sonining N - raqamini qaytarsin. Agar K soni raqamlari N dan kichk bo’lsa, minus bir qaytarilsin. Shu funksiya orqali K1, K2, KZ sonlarining N - raqami aniqlansin.
+FunSimple31. IsPalindrom(N) mantiqiy funksiyasini hosil qiling. (N > 0). Agar N soni palindrom bo’lsa - true, aks holda false qiymat qaytarilsin. Shu funksiya orqali 5 ta sondan nechtasi palindrom ekanini aniqlovchi programma tuzilsin. IsPalindrom funksiyasinida DigitCount va DigitN funksiyalridan foydalanish mumkin. (Qarang FunSimple29, FunSimple30)
+FunSimple32. Haqiqiy qiymat qaytaruvchi DegToRad(D) funksiyasini hosil qiling. (360 > D > 0). Funksiya D gradusning radian qiymatini qaytarsin. Shu funksiya orqali 3 ta berilgan burchakning radianga qiymati aniqlansin.
+FunSimple33. Haqiqiy qiymat qaytaruvchi RadToDeg(R) funksiyasini hosil qiling. Funksiya R radianning gradus qiymatini qaytarsin. Shu funksiya orqali radianda berilgan 3 ta burchakning gradusdagi qiymati aniqiansin.
+FunSimple34. Butun qiymat qaytaruvchi Fact(N) funksiyasini hosil qiling. (N > 0). Funksiya N! qiymatini qaytarsin. Shu funksiya orqali 3ta sonlarining faktoriali aniqiansin.
+FunSimple35. Butun qiymat qaytaruvchi Fact2(N) funksiyasini hosil qiling. (N > 0). Funksiya N!! ikkilangan faktorial qiymatini qaytarsin. Shu funksiya orqali 3 ta sonlarining ikkilangan faktoriali aniqiansin. (while6 ga qarang)
+FunSimple36. Butun qiymat qaytaruvchi Fib(N) funksiyasini hosil qiling. (N > 0). Funksiya Fibonachchi sonlarining N - elementini qaytarsin.
+
+FunSimple37. Haqiqiy qiymat qaytaruvchi Power1(A, B) funksiyasini hosil qiling. Funksiya AB darajasi qiymatini qaytarsin. Shu funksiya orqali berilgan A1, A2, A3 sonlarining V darajasi topilsin. A, A1, A2, AZ, V haqiqiy sonlar.
+FunSimple38. Haqiqiy qiymat qaytaruvchi Power2(A, N) funksiyasini hosil qiling. Funksiyada AN darajasi qiymati quyidagi formula asosida topilsin. Shu funksiya orqali berilgan A sonining N, M, K darajalari topilsin. A0 = 1; Agar N > 0 bo’lsa, AN = A * A *... * A (N ta ko’payuvchi). Agar A < 0 bo’lsa, AN = 1 / (A * A *... * A) (|N| ta ko’payuvchi). A haqiqiy, N, M , K butun sonlar.
+
+FunSimple39. Haqiqiy qiymat qaytaruvchi Power3(A, N) funksiyasini hosil qiling. Funksiyada AN darajasi qiymati quyidagicha topilsin. Agar N sonining kasr qismi 0 dan farqli bo’lsa, Power2(A, N) funksiyasi chaqirilsin. Aks holda Power1(A, B) funksiyasi chaqirilsin (FunSimple37, FunSimple38 masalalarga qarang). Shu funksiya orqali berilgan A sonining N, M, K darajalari topilsin. A, N, M , K haqiqiy sonlar. Eslatma: Power2(A, N) - funksiyasini chaqirishda N - sonining butun qismi jo'natiladi.
+
+FunSimple40. Haqiqiy qiymat qaytaruvchi Exp1(x, £) funksiyasini hosil qiling. (x - haqiqiy son, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin.
+1 + x + x2 / (2!) + x3 / (3!) + ... +xn/(n!) + ...
+Yig’indida £ dan katta bo’lgan barcha xadlar qatnashsin. Berilgan x, £1, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple41. Haqiqiy qiymat qaytaruvchi sin1(x, £) funksiyasini hosil qiling. (x - haqiqiy son, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin.
+Sin(x) = x - x3 / (3!) + x5 / (5!) -... +(-1)n x2n+1 /((2*n+1)!) + ...
+Yig’indida £ dan moduli katta bo’lgan barcha xadlar qatnashsin. Berilgan x, £1, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple42. Haqiqiy qiymat qaytaruvchi cos1(x, £) funksiyasini hosil qiling. (x - haqiqiy son, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin.
+cos(x) = 1 — x2/(2!) + x4/(4!) -... +(-1)n x2n/( (2*n)!) + ...
+Yig’indida £ dan moduli katta bo’lgan barcha xadlar qatnashsin. Berilgan x, z'\, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple43. Haqiqiy qiymat qaytaruvchi Ln1(x, £) funksiyasini hosil qiling. (|x| <1, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin. 
+In(1 +x) = x- x2/2 + x3/3 -... +(-1)" xn+1 /(n + 1) + ...
+Yig’indida £ dan moduli katta bo’lgan barcha xadlar qatnashsin. Berilgan x, £1, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple44. Haqiqiy qiymat qaytaruvchi Arctg1(x, £) funksiyasini hosil qiling. (|x| <1, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin. arctg(x) = x- x3/3 + x5/5 -... +(-1)n x2n+1 /(2n + 1) + ...
+Yig’indida £ dan moduli katta bo’lgan barcha xadlar qatnashsin. Berilgan x, £1, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple45. Haqiqiy qiymat qaytaruvchi Power4(x, a, £) funksiyasini hosil qiling. (|x| <1; a, £ > 0) Funksiya quyidagi yig’indi qiymatini qaytarsin.
+(1 + x)a = 1 +a*x + a*(a-1)*x2/(2!) + ... +a*(a-1)...(a-n+1) *xn/(n!) + ...
+Yig’indida £ dan moduli katta bo’lgan barcha xadlar qatnashsin. Berilgan x, a, £1, z2, £3 uchun funksiya hisoblansin.
+
+FunSimple46. Butun qiymat qaytaruvchi EKUB(A, B) funksiyasini hosil qiling. Funksiya A va V sonlarining eng katta umumiy bo’luvchisini qaytarsin. A, V, C, D sonlari berilgan. (A, V), (A, C), (A,D) juftliklari uchun EKUB hisoblansin.
+
+FunSimple47. EKUB funksiyasidan (FunSimple46) foydalangan holda Frac1(a, b, p, q) funksiyasini hosil qiling. Funksiya (a I b) kasrini qisqarmaydigan (p I q) ko'rinishini qaytarsin. a, b, c, d sonlari berilgan. (a / b), (a / c), (a /d) kasrlarini qisqartiring.
+
+FunSimple48. EKUB funksiyasidan foydalangan holda butun qiymat qaytaruvchi EKUK(A, B) funksiyasini hosil qiling. Funksiya A va V sonlarining eng kichik umumiy karralisini qaytarsin. A, V, C, D sonlari berilgan. (A, V), (A, C), (A, D) juftliklari uchun EKUK hisoblansin. EKUK = A * V / EKUB (A, B);
+
+FunSimple49. EKUB funksiyasidan foydalangan holda (FunSimple46 masalasiga qarang) butun qiymat qaytaruvchi EKUB3(A, V, C) funksiyasini hosil qiling. Funksiya A, V, S sonlarining eng kichik umumiy karralisini qaytarsin. A, V, C, D sonlari berilgan. (A, V, S), (A, C, D), (A, B, D) sonlari uchun EKUB hisoblansin.
+
+FunSimple50. TimeToHMS(T, H, M, S) funksiyasini hosil qiling. Funksiya berilgan T sekundni H - soat, M - minut, S - sekundlarga ajratsin. Funksiya orqali berilgan T1, T2, T3 sekundlar soat, minut va sekundlarga aylanritilsin.
+Masalan: T = 400 Natija: 00:06:40
+
+FunSimple51. IncTime (H, M, S, T) funksiyasini hosil qiling. Funksiya berilgan H - soat, M - minut, S - sekundni, T sekundga oshirsin. Funksiya orqali berilgan soat , minut va sekundni T sekundaga oshiruvchi programma tuzilsin.
+
+FunSimple52. Mantiqiy qiymat qaytaruvchi IsLeapear(Y) funksiyasini hosil qiling. Funksiya berilgan Y - yil kabisa yili bo’lsa true, aks holda false qiymat qaytarsin. Berilgan 5 ta yilning kabisaligi tekshirilsin. (Kabisalik shartini bilish uchun IF28 masalaga qarang.)
+
+FunSimple53. IsLeapear(Y) funksiyasidan foydalangan xolda, butun qiymat qaytaruvchi MonthDays (M, Y) funksiyasini hosil qiling. Funksiya berilgan Y - yilning M - oyi kunlar sonini qaytarsin. Berilgan yilning M1, M2, M3 oylarining kunlar soni topilsin. (FunSimple52 masalaga qarang.)
+
+FunSimple54. MonthDays funksiyasidan foydalangan xolda, PrevDate(D, M, Y) funksiyasini hosil qiling. Funksiya berilgan sanadan oldingi sanani aniqlasin, D - kun, Y - yil, M - oyini qaytarsin. 3 ta berilgan sanadan oldingi sana aniqlansin. (FunSimple53 masalaga qarang.)
+
+FunSimple55. MonthDays funksiyasidan foydalangan xolda, NextDate(D, M, Y) funksiyasini hosil qiling. Funksiya berilgan sanadan keying sanani aniqlasin, D - kun, Y - yil, M - oyini qaytarsin. 3 ta Berilgan sanadan keying sana aniqlansin. (FunSimple53 masalaga qarang.)
+
+FunSimple56. Haqiqiy qiymat qaytaruvchi Leng(X1, Y1, X2, Y2) funksiyasini hosil qiling. Funksiya berilgan (X1, Y1) va (X2, Y2) nuqtalar orasidagi masofani qaytarsin. A, V, C, D nuqtalar koordinatalari berilgan. A nuqtadan V, C, D nuqtalargacha bo’lgan masofalar hisoblansin. |AB|, |AC|, |AD| - ?
+
+FunSimple57. Leng funksiyasidan foydalangan xolda, haqiqiy qiymat qaytaruvchi Perim(XA, YA, XB,
+YB, Xc, Yc) funksiyasini hosil qiling. Funksiya berilgan koordinatalar asosida uchburchak perimatrini
+qaytarsin. A, V, C, D nuqtalar koordinatalari berilgan. ABC, ABD, ACD uchburchaklar perimetrlari hisoblansin. (FunSimple56 masalaga qarang.)
+
+FunSimple58. Leng va Perim funksiyalaridan foydalangan xolda, haqiqiy qiymat qaytaruvchi Agea(Xd,
+Ya, Xb, Yb, Xc, Yc) funksiyasini hosil qiling. Funksiya berilgan koordinatalar asosida uchburchak yuzini
+qaytarsin. A, V, C, D nuqtalar koordinatalari berilgan. ABC, ABD, ACD uchburchaklar yuzalari hisoblansin. (FunSimple57 masalaga qarang.)
+
+FunSimple59. Leng va Area funksiyalaridan foydalangan xolda, haqiqiy qiymat qaytaruvchi Dist(XA,
+Ya> Xb, Yb, Xp, Y ) funksiyasini hosil qiling. Funksiya berilgan koordinatalar asosida P nuqtadan AB
+kesmaga tushurilgan balandlikni hisoblab qaytarsin. (Formula quyidagicha: D(P, AB) = 2 * SpAB / |AB|)
+P, A, V, S nuqtalar koordinatalari berilgan. P nuqtadan AB? BC, AC kesmaga tushirilgan balandlik hisoblansin. (FunSimple56 va FunSimple58 masalalarga qarang.)
+
+FunSimple60. Dist funksiyasidan foydalangan xolda, Heights(XA> YA> XB, YB, Xc, Yc> hA> hB, hc)
+funksiyasini hosil qiling. Funksiya berilgan koordinatalar asosida uchburchak tomonlariga tushurilgan balandliklarni hisoblab qaytarsin. A, V, S nuqtalar koordinatalari berilgan. Uchburchak tomonlariga tushurilgan balandliklar hisoblansin. (FunSimple59 masalalarga qarang.)
+
+
+Array 1. n natural soni berilgan. Dastlabki n ta toq sondan tashkil topgan massivni hosil qiling va elementlarini chiqaring.
+Array2 n natural soni berilgan. 2 sonining dastlabki n ta darajasidan tashkil topgan massivni hosil qiling va elementlarini chiqaring. (1,2,4,8,....)
+AggauZ. n natural soni va arifmetik progressiyaning dastlabki hadi A va ayirmadi D berilgan. Arifmetik progressiyaning dastlabki n ta hadidan tashkil topgan massivni hosil qiling va elementlarini chiqaring. Ai=Ai-1+D
+Array4. n natural soni va geometrik progressiyaning dastlabki hadi A va maxraji D berilgan. Geometrik progressiyaning dastlabki n ta hadidan tashkil topgan massivni hosil qiling va elementlarini chiqaring. Ai=Ai-1*D
+Array 5 n natural soni berilgan. Dastlabki n ta Fibonachchi sonlaridan tashkil topgan massivni hosil qiling va elementlarini chiqaring. FO = 1; F1 =1; F[k] = F[k-1] + F[k-2]; k=2,3,4,...
+Aggau6. n natural soni va A, V butun sonlari berilgan (n > 2). a[0] = A; a[1] = B; boshqa elementlari o’zidan oldingi barcha elementlari yig’indisiga teng bo’lgan massivni hosil qiling va elementlarini chiqaring.
+Array 7. n ta elementdan tashkil topgan massiv berilgan. Uning elementlarini teskari tartibda chiqaruvchi programme tuzilsin.
+Array 8. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan toqlarini indekslari o’sish tartibida chiqaruvchi va ularning sonini chiqaruvchi programma tuzilsin. Massiv elementlar: 4 5 7 8 6 9 Natija: 5 7 9 toqlar soni = 3
+Array9. nta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan juftlarini indekslari kamayish tartibida chiqaruvchi va ularning sonini chiqaruvchi programma tuzilsin. Massiv elementlar: 4 5 7 8 6 9 Natija: 6 8 4 juftlar soni = 3
+Array 10. n ta elementdan tashkil topgan massiv berilgan. Dastlab massiv elementlari orasidan juftlarini indekslari o’sish tartibida chiqaruvchi, keyin massiv elementlari orasidan toqlarini indekslari kamayish tartibida chiqaruvchi programma tuzilsin. Massiv elementlar: 4 5 7 8 6 9 Natija: 4 8 6 9 7 5
+Array11. n ta elementdan tashkil topgan massiv va K butun soni berilgan (1 <= K < n). Massiv elementlari orasidan indeksi K ga karralilarini chiqaruvchi programma tuzilsin. Ak, A2k, A3k, .... Shart operatori ishlatilmasin.
+Array12 n ta elementdan tashkil topgan massiv berilgan (n juft son). Massiv elementlari orasidan quyidagilarini chiqaruvchi programma tuzilsin. A[0], A[2], A[4],... Shart operatori ishlatilmasin.
+Array13 n ta elementdan tashkil topgan massiv berilgan (n toq son). Massiv elementlari orasidan quyidagilarini chiqaruvchi programma tuzilsin. A[n-1], A[n-3],... A[1]. Shart operatori ishlatilmasin.
+Array14 n ta elementdan tashkil topgan massiv berilgan. Dastlab massiv elementlari orasidan juft indekslilarini keyin toq indekslilarini chiqaruvchi programma tuzilsin. A[0], A[2], A[4],... A[1], A[3], A[5],.... Shart operatori ishlatilmasin.
+Array15 n ta elementdan tashkil topgan massiv berilgan (n juft son). Dastlab massiv elementlari orasidan toq indekslilarini o’shish tartibida keyin juft indekslilarini kamayish tartibida chiqaruvchi programma tuzilsin. A[1], A[3], A[5],.. A[6], A[4], A[2], A[0]. Shart operatori ishlatilmasin.
+Array16. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlarini quyidagicha chiqaruvchi programma tuzilsin. A[0], A[n-1], A[1], A[n-2], A[2], A[n-3],...
+Array17. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlarini quyidagicha chiqaruvchi programma tuzilsin. A[0], A[1], A[n-1], A[n-2], A[3], A[4], A[n-3], A[n-4],...
+Array 18 n ta elementdan tashkil topgan massiv berilgan. Massiv oxirgi elementidan kichkina bo’lgan birinchi elementni chiqaruvchi programma tuzilsin. Agar bunday element bo’lmasa, nol chiqarilsin.
+Array 19 n ta elementdan tashkil topgan massiv berilgan. Massiv oxirgi elementidan kichkina va dastlabki elementidan katta bo’lgan oxirgi element indeksini chiqaruvchi programma tuzilsin. Agar bunday element bo’lmasa, nol chiqarilsin. (a[0] < a[k] < a[n-1])
+Array20. N ta elementdan tashkil topgan massiv va K, L butun sonlari berilgan. (0 <= K <= L < N). Massivning Kva L indekslari orasidagi elementlari yig’indisini chiqaruvchi programma tuzilsin.
+Array21. N ta elementdan tashkil topgan massiv va K, L butun sonlari berilgan. (0 <= K <= L < N). Massivning K va L indekslari orasidagi elementlarining o’rta arifmetigini chiqaruvchi programma tuzilsin.
+Array22. N ta elementdan tashkil topgan massiv va K, L butun sonlari berilgan. (0 <= K <= L < N). Massivning K va L indekslari orasidagi elementlaridan tashqari elementlari yig’indisini chiqaruvchi programma tuzilsin.
+Array23. N ta elementdan tashkil topgan massiv va K, L butun sonlari berilgan. (0 <= K <= L < N). Massivning K va L indekslari orasidagi elementlaridan tashqari elementlarining o’rta arifmetigini chiqaruvchi programma tuzilsin.
+Array24. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari arifmetik progressiyani tashkil qilsa, ayirmani aks holda nolni chiqaruvchi programma tuzilsin.
+Array25. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari geometrik progressiyani tashkil qilsa, maxrajni aks holda nolni chiqaruvchi programma tuzilsin.
+Array26. n ta elementdan tashkil topgan massiv berilgan. Massivda juft va toq elementlar ketma - ket kelishini tekshiruvchi programma tuzilsin. Ketma - ketlik bajarilsa nol chiqarilsin. Aks holda ketma - ketlikni buzgan birinchi element indeksi chiqarilsin.
+Array27. nta elementdan tashkil topgan massiv berilgan. Massivda musbatva manfiy qiymatlar ketma-ket kelishini tekshiruvchi programma tuzilsin. Ketma - ketlik bajarilsa nol chiqarilsin. Aks holda ketma-ketlikni buzgan birinchi element indeksi chiqarilsin.
+Array28. n ta elementdan tashkil topgan massiv berilgan. Massiv juft indeksli elementlari orasidan kichigini aniqlovchi programma tuzilsin. min(aO, a2, a4,...)
+Array29. n ta elementdan tashkil topgan massiv berilgan. Massiv toq indeksli elementlari orasidan kattasini aniqlovchi programma tuzilsin. max(a1, a3, a5,...)
+Aggau30. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasida, o’ng qo’shnisidan katta bo’lgan elementlarining indeksini o’sish tartibida chiqaruvchi va ularning sonini chiqaruvchi programma tuzilsin.
+Array31. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasida, chap qo’shnisidan katta bo’lgan elementlarining indeksini kamayish tartibida chiqaruvchi va ularning sonini chiqaruvchi programma tuzilsin.
+Array32. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan birinchi uchragan lokal minimum elementi indeksini chiqaruvchi programma tuzilsin. Lokal minimum - o’ng va chap qo’shinisidan kichik bo’lgan element.
+Aggau33. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan oxirgi lokal maksimum elementi indeksini chiqaruvchi programma tuzilsin. Lokal maksimum - o’ng va chap qo’shinisidan katta bo’lgan element.
+Array34. n ta elementdan tashkil topgan massiv berilgan. Massiv lokal minimumlari orasidan kattasini chiqaruvchi programma tuzilsin. Lokal minimum - array32 masalada berilgan.
+Array35. n ta elementdan tashkil topgan massiv berilgan. Massiv lokal maksimumlari orasidan kichigini chiqaruvchi programma tuzilsin. Lokal maksimum - aggauZZ masalada berilgan.
+AggauZ6. n ta elementdan tashkil topgan massiv berilgan. Massivning lokal minimum yoki lokal maksimum bo’lmagan elementlari orasidan kattasini chiqaruvchi programma tuzilsin. Agar bunday element bo’lmasa nol chiqarilsin. (array32, aggauZZ masalalarga qarang)
+Array37. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan monoton o’suvchi oraliqlar sonini chiqaruvchi programma tuzilsin.
+Array38. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan monoton kamayuvchi oraliqlar sonini chiqaruvchi programma tuzilsin.
+Array39. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan monoton oraliqlar sonini chiqaruvchi programma tuzilsin. (array37, array38 masalalarga qarang)
+Array40. nta elementdan tashkil topgan massiv va R butun soni berilgan. Massiv elementlari orasidan R soniga eng yaqin sonni topuvchi programma tuzilsin. (|a[k] - R| ayirma eng kichik bo’luvchi a[k] topilsin )
+Array41. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan yig’indisi eng katta bo’ladigan 2 ta qo’shini elementni chiqaruvchi programma tuzilsin.
+Array42. nta elementdan tashkil topgan massiv va R butun soni berilgan. Massiv elementlari orasidan R soniga yig’indisi eng yaqin 2ta qo’shni elementni chiqaruvchi programma tuzilsin. (array40, array41 masalalarga qarang)
+Array43. n ta elementdan tashkil topgan massiv elementlari tartiblangan holda (o’sish yoki kamayish) berilgan. Massivning har hil qiymatli elementlari sonini chiqaruvchi programma tuzilsin.
+Array44. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasida aniq 2 ta bir xil qiymatli element bor. Shu bir xil qiymatli elementlar indeksini chiqaruvchi programma tuzilsin.
+Array45. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan bir - biriga eng yaniq qo’shnilar indeksini chiqaruvchi programma tuzilsin. (ayirmasining moduli eng kichik bo’lgan elementlari indeksi)
+Array46. nta elementdan tashkil topgan massiv va R butun soni berilgan. Massiv elementlari orasidan R soniga yig’indisi eng yaqin 2 ta elementni chiqaruvchi programma tuzilsin. (array40, array42 masalalarga qarang)
+Array47. n ta elementdan tashkil topgan massiv berilgan. Massivda qatnashgan sonlardan faqat bittadan chiqaruvchi programma tuzilsin. Berilgan massiv: 74231 4524 7; Natija: 7 4 2 3 1 5
+Array48. n ta elementdan tashkil topgan massiv berilgan. Massivda eng ko’p qatnashgan bir xil qiymatli element sonini chiqaruvchi programma tuzilsin.
+Array49. n ta elementdan tashkil topgan massiv berilgan. Agar massiv 1 dan n gacha bo’lgan sonlarning o’rin almashtirilishidan hosil bo’lgan bo’lsa, nol chiqarilsin. Aks holda birinchi uchragan nojoiz kiritilgan element indeksini chiqaruvchi programma tuzilsin.
+Array50 n ta elementdan tashkil topgan massiv berilgan. Massiv elementlari orasidan o’ng qo’shnisidan katta bo’lganlar sonini chiqaruvchi programma tuzilsin.
+3. Bir nechta massiv bilan ishlash
+Array51. n ta elementdan tashkil topgan a va b massiv berilgan. a va b massiv qiymatlarini almashtiruvchi va ekranga oldin a massivni keyin b massivni chiqaruvchi programma tuzilsin.
+Array52. n ta elementdan tashkil topgan a massiv berilgan. b massivni hosil qiling. Agar a[i] < 5 bo’lsa, b[i] = 2 * a[i]; aks holda b[i] = a[i]/2;
+Array53 n ta elementdan tashkil topgan a va b massiv berilgan. s massivni hosil qiling. c[i] = max (a[i], b[i]), ya’ni s massiv elementi a va b massiv elementlaridan kattasini qabul qilsin.
+Array54. n ta elementdan iborat butun sonlardan tashkil topgan a massiv berilgan. a massivning juft elementlaridan tashkil topgan b massivini hosil qiling. b massiv elementlari soni va elementlari chiqarilsin.
+Array55. n ta butun sonlardan iborat a massiv berilgan (n <= 15). a massivining toq indeksdagi elementlaridan b massivni hosil qiling (a1, a3, ...). b massiv elementlari soni va elementlarini chiqaruvchi programma tuzing. Shart operatori ishlatilmasin.
+Array56. n ta butun sonlardan iborat a massiv berilgan (n <= 15). a massivining 3 ga karrali indeksdagi elementlaridan b massivni hosil qiling (aZ, a6, ...). b massiv elementlari soni va elementlarini chiqaruvchi programma tuzing. Shart operatori ishlatilmasin.
+Array57. n ta butun sonlardan iborat a massiv berilgan. b massivni hosil qiling. b massiv oldin a massivining juft indeksdagi elementlarini, keyin toq indeksdagi elementlarini o’zlashtirsin (aO, a2, a4, a6 ..., a1, a3,...). b massiv elementlarini chiqaruvchi programma tuzing. Shart operatori ishlatilmasin.
+Array58. n ta butun sonlardan iborat a massiv berilgan. n ta elementdan tashkil topgan b massivni hosil qiling. b massiv elementlari quyidagicha hosil qilinadi: b[k] = a[0] + ... + a[k];
+Array59. n ta butun sonlardan iborat a massiv berilgan. n ta elementdan tashkil topgan b massivni hosil qiling. b massiv elementlari quyidagicha hosil qilinadi: b[k] = (a[0] + ... + a[k]) I k;
+AggaubO. n ta butun sonlardan iborat a massiv berilgan. n ta elementdan tashkil topgan b massivni hosil qiling. b massiv elementlari quyidagicha hosil qilinadi: b[k] = a[k] + ... + a[n-1], ya’ni a massivning k - elementdan boshlab massiv oxirigacha bo’lgan elementlari yig’indisiga teng.
+Array61. n ta butun sonlardan iborat a massiv berilgan. n ta elementdan tashkil topgan b massivni hosil qiling. b massiv elementlari quyidagicha hosil qilinadi: b[k] a massivning k - elementdan boshlab massiv oxirigacha bo’lgan elementlari yig’indisining o’rta arifmetigiga teng.
+Array62. n ta butun sonlardan iborat a massiv berilgan. a massivning musbat elementlaridan tashkil topgan b va manfiy elementlaridan tashkil topgan s massivni hosil qiling. Oldin b massiv elementlari soni va elementlarini, keyin s massiv elementlari soni va elementlarini chiqaruvchi programma tuzilsin.
+AggaubZ. 5 ta elementdan tashkil topgan a va b massivlari berilgan. Har bir massiv elementlari o’sish tartibida kiritiladi. 10 ta elementdan tashkil topgan cmassivini hosil qilingki, s massiv elementlari o’sish tartibida joylashtirilgan bo’lsin. Masalan: a = {1,2, 3, 4}; b = {5, 6, 7, 8}; Natija s = {1, 2, 3, 4, 5, 6, 7, 8}
+Array64. n ta elementdan tashkil topgan a, b, s massivlari berilgan. Har bir massiv elementlari mos ravishda o’sish tartibida kiritiladi. 3*n ta elementdan tashkil topgan d massivini hosil qilingki, d massiv elementlari o’sish tartibida joylashtirilgan bo’lsin.
+4. Massiv elementlarini o’zgartirish
+Array65. n ta butun sonlardan iborat a massiv va k butun soni berilgan (1 <= k <= n). Massivning har bir elementini a[k] ga orttiruvchi programma tuzilsin.
+Aggay 66 . n ta butun sonlardan iborat massiv berilgan. Massivdagi har bir juft sonni birinchi uchragan juft songa orttiruvchi programma tuzilsin. Agar juft sonlar bo’lmasa, massiv o’zgarishsiz qoldirilsin.
+Array67. n ta butun sonlardan iborat massiv berilgan. Massivdagi har bir toq sonni oxirgi toq songa orttiruvchi programma tuzilsin. Agar toq sonlar bo’lmasa, massiv o’zgarishsiz qoldirilsin.
+Array68. n ta elementdan iborat massiv berilgan. Massivning eng kichik va eng katta elementlari o’rni almashtirilsin.
+Array69. nta elementdan iborat massiv berilgan (n juft son). Massivning nolinchi bilan birinchi, ikkinchi bilan uchinchi,..., elementlari o’rni almashtirilsin.
+Array70. n ta elementdan iborat massiv berilgan (n juft son). Massivning birinchi yarmi va ikkinchi yarmi qiymatlari almashtirilsin.
+Array71. nta elementdan iborat massiv berilgan. Massivning elementlari teskari tartibda joylashtirilsin. (DIQQAT: Sizdan teskari tartibda chiqarish talab qilinayotgani yo'q. a[0] element a[n-1] bilan almashsin, va hakazo, teskari tartibda joylashtirish talab qilinyapti)
+Array72. n ta butun sonlardan iborat a massiv va k, h butun soni berilgan (1 <= k < h <= n). Massivning a[k] va a[h] elementlari orasidagi qiymatlarni almashtiruvchi programma tuzilsin. a[k] va a[h] elementlari bilan birgalikda.
+Array73. n ta butun sonlardan iborat a massiv va k, h butun soni berilgan (1 <= k < h <= n). Massivning a[k] va a[h] elementlari orasidagi qiymatlarni almashtiruvchi programma tuzilsin. a[k] va a[h] elementlarisiz.
+Array74. n ta butun sonlardan iborat a massiv berilgan. Massivning eng kichik va eng katta elementlari orasidagilarini nolga almashtiruvchi programma tuzilsin. Eng kichik va eng katta elementlari o’zgarishsiz qoldirilsin.
+Array75. n ta butun sonlardan iborat a massiv berilgan. Massivning eng kichik va eng katta elementlari orasidagi elementlarini teskari tartibda joylashtiruvchi programma tuzilsin. Eng kichik va eng katta elementlari bilan birgalikda.
+Array76. n ta butun sonlardan iborat a massiv berilgan. Massivning barcha lokal maksimumlarini nolga aylantiruvchi programma tuzilsin. (o’ng va chap qo’shnilaridan katta bo’lgan element - lokal maksimum deyiladi)
+Array77. n ta butun sonlardan iborat a massiv berilgan. Massivning barcha lokal minimumlarini kvadratga oshiruvchi programma tuzilsin. (o’ng va chap qo’shnilaridan kichik bo’lgan element - lokal minimum deyiladi)
+Array78. n ta sonlardan iborat a massiv berilgan. Massivning har bir elementini, uning o’ng qo’shnisi bilan o’rta arifmetigiga almashtiruvchi programma tuzilsin.
+Array79. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlarini bir qadam o’ngga siljituvchi programma tuzilsin. a[0] element qiymati a[1] ga o’tadi, a[1] esa a[2] ga, ... massivning oxirgi elementi tashlab yuboriladi. Hosil bo’lgan massivda a[0] = 0 bo’lsin.
+Array80. n ta elementdan tashkil topgan massiv berilgan. Massiv elementlarini bir qadam chapga siljituvchi programma tuzilsin. a[n-1] element qiymati a[n-2] ga o’tadi, a[n-2] esa a[n-3] ga, ... massivning 0 - elementi tashlab yuboriladi. Hosil bo’lgan massivning oxirgi elementi qiymati nolga teng bo’lsin. 
+Array81 n ta elementdan tashkil topgan massiv va k butun soni berilgan (1 <= k < n). Massiv elementlarini kta o’rin o’ngga siljituvchi programma tuzilsin. a[0] element qiymati a[k] ga o’tadi, a[1] esa a[k + 1] ga, ... massivning oxirgi k ta elementi tashlab yuboriladi. Hosil bo’lgan massivning dastlabki k ta elementi qiymati nolga teng bo’lsin.
+Array82 n ta elementdan tashkil topgan massiv va k butun soni berilgan (1 <= k < n). Massiv elementlarini k ta o’rin chapga siljituvchi programma tuzilsin. a[n-1] element qiymati a[n-1-k] ga o’tadi, a [n-2] esa a[n-2-k] ga, ... massivning dastlabki kta elementi tashlab yuboriladi. Hosil bo’lgan massivning oxirgi kta elementi qiymati nolga teng bo’lsin.
+Array83. nta elementdan tashkil topgan berilgan. Massiv elementlarini 1 ta o’rin ongga siklik siljituvchi programma tuzilsin. a[0] element qiymati a[1] ga o’tadi, a[1] esa a[2] ga, ..., a[n - 1] qiymati a[0] ga o’tadi.
+Array84 n ta elementdan tashkil topgan massiv berilgan. Massiv elementlarini bir qadam chapga siklik siljituvchi programma tuzilsin. a[n-1] element qiymati a[n-2] ga o’tadi, a[n-2] esa a[n-3] ga, ... a[0] esa a [n-1] ga o’tadi.
+Array85 n ta elementdan tashkil topgan massiv va k butun soni berilgan (1 <= k <=4; k < n). Massiv elementlarini kta o’rin o’ngga siklik siljituvchi programma tuzilsin. a[0] element qiymati a[k] ga o’tadi, a [1] esa a[k + 1] ga, ... a[n - 1] esa a[n-1-k] ga o’tadi. 4 ta elementdan tashkil topgan yordamchi massivdan foydalanish mumkin.
+Array86. n ta elementdan tashkil topgan massiv va k butun soni berilgan (1 <= k <= 4; k < n). Massiv elementlarini k ta o’rin chapga siklik siljituvchi programma tuzilsin. a[n-1] element qiymati a[n-1-k] ga o’tadi, a[n-2] esa a[n-2-k] ga,... a[0] esa a[n-k] ga o’tadi.
+Array87. n ta elementdan tashkil topgan massiv berilgan. Massivning dastlabki elementidan boshqalari o’sish tartibi joylashtirilgan. Massivning dastlabki elementini shunday joylashtiringki, natijada massiv o’sish tartibida joylashib qolsin.
+Array88 n ta elementdan tashkil topgan massiv berilgan. Massivning oxirgi elementidan boshqalari o’sish tartibi joylashtirilgan. Massivning oxirgi elementini shunday joylashtiringki, natijada massiv o’sish tartibida joylashib qolsin.
+Array89. n ta elementdan tashkil topgan massiv berilgan. Massivning bitta elementidan boshqalari o’sish tartibi joylashtirilgan. Massivning qonuniyatni buzib turgan elementini shunday joylashtiringki, natijada massiv o’sish tartibida joylashib qolsin.
+
